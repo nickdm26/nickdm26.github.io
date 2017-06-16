@@ -21,3 +21,10 @@ h1{
     padding-left: 20px;
     padding-right: 20px;
 }
+
+.Code{
+    border: 2px grey solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
